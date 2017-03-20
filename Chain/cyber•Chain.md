@@ -4,6 +4,8 @@
 
 Draft v 0.1
 
+[Simplified](https://docs.google.com/presentation/d/1nsPwHLBu5UArQ4zbN1yaGUj8LBgEpCEFqVe6iKP5XLg/pub?start=false&loop=false&delayms=3000&slide=id.g20ef74535d_0_33)
+
 ## Abstract
 
 Existing general purpose search engines are restrictive centralized databases everybody forced to trust. These search engines were designed primarily for client-server architecture based on DNS, HTTP, and IP protocols. The emergence of content-addressable storage and distributed ledger technology creates an opportunity for the Internet to acquire new features such as more efficient computing, storing and broadband consumption, more resilient, secure and private access, no middleman for digital property. This can shift existing web's ubiquitously used client-server architecture to truly peer-to-peer interactions based on stateless IPFS and variety of stateful consensus computers such as Ethereum. This creates a challenge and opportunity for a search engine based on emerging technologies and specifically designed for them. Surprisingly the blockchain architecture itself allows organizing general purpose search engine in a way inaccessible for previous architectures. In this paper, we discuss opportunities behind blockchain based search engine, challenges of crawling, indexing and evaluation for the next generation web and propose a blockchain based experimental set of smart contracts to address discussed issues.
