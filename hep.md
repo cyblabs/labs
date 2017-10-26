@@ -18,3 +18,7 @@ HEP is rude prototype for the concept of sixth sense.
 - 1 TB SSD
 - NVidea GTX 1080
 - LimeSDR
+
+## Scheme
+
+![](https://raw.githubusercontent.com/cyberFund/labs/master/hep.jpg)
